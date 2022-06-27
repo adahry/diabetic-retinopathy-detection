@@ -1,1 +1,2 @@
-# diabetic-retinopathy-detection
+# diabetic-retinopathy-detection <in progreess>
+  The aim of this project was to explore different ideas for Diabetic Retinopathy images detection using deep learning algorithms. Different architectures were used and data augmentation techniques. More detailed information about the settings are in projekt_report.pdf file. Notice to use this notebook, you need to have access via kaggle.json file to this [Kaggle dataset](https://www.kaggle.com/competitions/diabetic-retinopathy-detection/rules).
